@@ -1,5 +1,7 @@
 ![Status](https://img.shields.io/badge/status-Working-green)
 
+[Roblox](https://img.shields.io/badge/game-War_Tycoon-blue)
+
 
 RAW: loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/WarTycoon-HubBloxy/main/main.lua"))()
 
