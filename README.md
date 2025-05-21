@@ -1,11 +1,12 @@
+![Status](https://img.shields.io/badge/status-Working-green)
 RAW: loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/WarTycoon-HubBloxy/main/main.lua"))()
 
-Discord: https://discord.gg/KTgrSFx3ws
+[Discord](https://discord.gg/KTgrSFx3ws)
+[Key Website](https://link-hub.net/1349739/war-tycoom-key-script)
 
-Key Website: https://link-hub.net/1349739/war-tycoom-key-script
 
+**IF YOU USING NOTE THAT:**
 
-IF YOU USING NOTE THAT:
 ⛔Disclaimer: I am not responsible for any bans or account losses. Use this script at your own risk, especially on main accounts. It is strongly recommended to use an alternate account.⛔
 
 ⛔Ich übernehme keine Verantwortung für Bans oder Accountverluste. Die Nutzung dieses Scripts erfolgt auf eigene Gefahr, besonders auf Hauptaccounts. Die Verwendung eines Zweitaccounts wird dringend empfohlen.⛔
