@@ -1,7 +1,12 @@
 ![Status](https://img.shields.io/badge/status-Working-green)
+
+
 RAW: loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/WarTycoon-HubBloxy/main/main.lua"))()
 
+
 [Discord](https://discord.gg/KTgrSFx3ws)
+
+
 [Key Website](https://link-hub.net/1349739/war-tycoom-key-script)
 
 
