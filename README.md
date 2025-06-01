@@ -9,7 +9,7 @@ RAW: loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/WarTy
 [Discord](https://discord.gg/KTgrSFx3ws)
 
 
-[Key Website](https://link-hub.net/1349739/war-tycoom-key-script)
+~~[Key Website](https://link-hub.net/1349739/war-tycoom-key-script)~~
 
 
 **IF YOU USING NOTE THAT:**
