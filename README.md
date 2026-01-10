@@ -6,10 +6,10 @@
 RAW: loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/WarTycoon-HubBloxy/main/main.lua"))()
 
 
-[Discord](https://discord.gg/KTgrSFx3ws)
+[Discord](https://discord.gg/bC9MgfRvG7)
 
 
-~~[Key Website](https://link-hub.net/1349739/war-tycoom-key-script)~~
+[Key Website](https://discord.gg/bC9MgfRvG7)
 
 
 **IF YOU USING NOTE THAT:**
@@ -60,7 +60,7 @@ and more
 🔐 Warning:
 Use at your own risk. Script usage may violate Roblox’s Terms of Service. Use only on alt accounts to avoid bans.
 
-📅 Last Update: 21.05.2025
+📅 Last Update: 9.01.2026
 
 ----------------------------
 
@@ -99,7 +99,7 @@ and more
 🔐 Warnung:
 Benutzung auf eigene Gefahr. Der Einsatz dieses Skripts wird sehr wahrscheinlich gegen die Roblox-Nutzungsbedingungen verstoßen. Verwende es nur auf Zweitkonten, um Bans zu vermeiden.
 
-📅 Letztes Update: 21.05.2025
+📅 Letztes Update: 9.01.2026
 
 ------------
 RUSSIA
@@ -136,7 +136,7 @@ HubBloxy — хаб с пользовательским интерфейсом R
 🔐 Предупреждение:
 Используйте на свой страх и риск. Использование этого скрипта, скорее всего, нарушит Условия обслуживания Roblox. Используйте его только на дополнительных аккаунтах, чтобы избежать банов.
 
-📅 Последнее обновление: 21.05.2025
+📅 Последнее обновление: 9.01.2026
 ===========================
 Created by: DevDexler || Believe in what you do
 ===========================
