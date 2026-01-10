@@ -3,7 +3,7 @@
 ![Roblox](https://img.shields.io/badge/game-War_Tycoon-blue)
 
 
-RAW: loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/WarTycoon-HubBloxy/main/main.lua"))()
+RAW: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/WarTycoon-HubBloxy/main/main.lua"))()```
 
 
 [Discord](https://discord.gg/bC9MgfRvG7)
