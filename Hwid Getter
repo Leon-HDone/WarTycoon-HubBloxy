@@ -1,3 +1,4 @@
-local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
-setclipboard(hwid)
-print("HWID wurde in die Zwischenablage kopiert: " .. hwid)
+----------------------local hwid = game:GetService("RbxAnalyticsService"):GetClientId()----------------------------------------
+-----------------------setclipboard(hwid)--------------------------------
+---------------------------print("HWID wurde in die Zwischenablage kopiert: " .. hwid)------------------------------
+------------------
