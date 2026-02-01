@@ -1,1 +1,1 @@
-⚠️ Wartungsarbeiten! Bitte lade das neue Script im Discord herunter.
+Script is no Longer Safe wait for update!
