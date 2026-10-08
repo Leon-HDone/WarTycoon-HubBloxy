@@ -6,10 +6,7 @@
 RAW: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/WarTycoon-HubBloxy/main/main.lua"))()```
 
 
-[Discord](https://discord.gg/bC9MgfRvG7)
-
-
-[Key Website](https://discord.gg/bC9MgfRvG7)
+[Discord](https://discord.gg/wRnWqKsxtB)
 
 
 **IF YOU USING NOTE THAT:**
@@ -22,7 +19,7 @@ RAW: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/Leon-HDone/Wa
 
 Thanks for choosing!
 ===========================
- HubBloxy - War Tycoon Hub
+ Bloxy Studio - War Tycoon Hub
 ===========================
 
 [ENGLISH VERSION]
@@ -67,7 +64,7 @@ Use at your own risk. Script usage may violate Roblox’s Terms of Service. Use 
 [DEUTSCHE VERSION]
 
 📌 Beschreibung:
-HubBloxy ist ein Hub mit Rayfield UI für das spiel War Tycoon
+Bloxy Studio ist ein Hub mit Rayfield UI für das spiel War Tycoon
 
 ⚙️ Funktionen:
 -- Go to city
@@ -104,7 +101,7 @@ Benutzung auf eigene Gefahr. Der Einsatz dieses Skripts wird sehr wahrscheinlich
 ------------
 RUSSIA
 📌 Описание:
-HubBloxy — хаб с пользовательским интерфейсом Rayfield для игры War Tycoon
+Bloxy Studio — хаб с пользовательским интерфейсом Rayfield для игры War Tycoon
 
 ⚙️ Особенности:
 -- Иди в город
