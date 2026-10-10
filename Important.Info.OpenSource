@@ -1,74 +1,13 @@
-# This is the only think i can see when you guys executing my script!
+LOGGER:
+THIS IS WHAT I SEE:
 
-
-This is what is in my Webhook
-
-
-** -- The Script: at line 120**
-
---Getting Service
-local HttpService = game:GetService("HttpService")
-local Players = game:GetService("Players")
-local player = Players.LocalPlayer
-
-local webhookUrl = "Discord.Webhook" --The webhook where is gets sendet
-
--- Avatar & Infos
-local avatarUrl = ("https://www.roblox.com/headshot-thumbnail/image?userId=%s&width=420&height=420&format=png"):format(player.UserId)  --Getting user ID 
-local isGerman = player.LocaleId:find("de")
-local role = "Spieler"
-
-if player:GetRankInGroup(16279059) >= 200 then
-	role = "Admin"
-elseif player.MembershipType == Enum.MembershipType.Premium then
-	role = "Premium"
-end
-
--- Beitrittslink erstellen
-local joinLink = ("roblox://placeId=%s&gameInstanceId=%s"):format(game.PlaceId, game.JobId)   --Link where i can join you when im tired
-local joinLinkMarkdown = ("[Jetzt beitreten](%s)"):format(joinLink)
-
--- Webhook-Embed vorbereiten
-local payload = {
-	username = "Execution Logger",   -- Name of Webhook
-	avatar_url = "https://cdn-icons-png.flaticon.com/512/5969/5969244.png",
-	embeds = { {
-		title = isGerman and "Ausführungsbericht" or "Execution Report",
-		description = isGerman and "Ein Skript wurde erfolgreich ausgeführt!" or "A script has been executed successfully!",
-		color = 65280,
-		timestamp = os.date("!%Y-%m-%dT%H:%M:%SZ"),  --Your County (US- [Langue] EN)
-		thumbnail = { url = avatarUrl },
-		fields = {
-			{ name = "👤 Benutzer", value = player.Name, inline = true },
-			{ name = "🆔 UserId", value = tostring(player.UserId), inline = true },
-			{ name = "🌐 Sprache", value = player.LocaleId, inline = true },
-			{ name = "📛 Rolle", value = role, inline = true },
-			{ name = "💎 Premium", value = tostring(player.MembershipType == Enum.MembershipType.Premium and "Ja" or "Nein"), inline = true },
-			{ name = "🎮 Spieleranzahl", value = tostring(#Players:GetPlayers()) .. "/" .. tostring(Players.MaxPlayers), inline = true },
-			{ name = "🗺️ PlaceId", value = tostring(game.PlaceId), inline = true },
-			{ name = "🧩 JobId", value = game.JobId, inline = false },
-			{ name = "🔗 Server-Link", value = joinLinkMarkdown, inline = false }
-		},
-		footer = {
-			text = isGerman and "Roblox Executor Logger • DE" or "Roblox Executor Logger • EN",
-			icon_url = "https://upload.wikimedia.org/wikipedia/commons/6/6f/Roblox_Studio_Icon.png"
-		}
-	} }
-}
-
--- Senden
-local function send(data)
-	local request = (syn and syn.request) or http_request or request
-	if request then
-		pcall(function()
-			request({
-				Url = webhookUrl,
-				Method = "POST",
-				Headers = {["Content-Type"] = "application/json"},       ----Sending
-				Body = HttpService:JSONEncode(data)
-			})
-		end)
-	end
-end
-
-send(payload)
+Script Usage Log
+User
+RobloxUser (89137)--ID
+Executor
+Potassium
+Game
+[UP] Just a baseplate.
+Place ID
+123974602339071
+10/8/2026 23:17
